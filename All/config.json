@@ -1,0 +1,5 @@
+{
+    "serverName": "MCSERVER",
+    "javaAddress": "mc.example.com:25565",
+    "bedrockAddress": "mc.example.com:19132" 
+}
